@@ -1,0 +1,35 @@
+{"categories": [
+    {
+        "mobs": [{
+            "drops": ["Stick"],
+            "stats": "Woody",
+            "name": "Tree",
+            "description": "Old"
+        }],
+        "title": "Woodlands"
+    },
+    {
+        "mobs": [],
+        "title": "Ocean"
+    },
+    {
+        "mobs": [
+            {
+                "drops": [],
+                "stats": "Tough",
+                "name": "Goat",
+                "description": "Young"
+            },
+            {
+                "drops": [
+                    "Scales",
+                    "Dragon Meat"
+                ],
+                "stats": "Large",
+                "name": "Dragon",
+                "description": "Scary"
+            }
+        ],
+        "title": "Mountain"
+    }
+]}
